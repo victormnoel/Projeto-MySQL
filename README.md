@@ -2,7 +2,7 @@
 
 
 
-- Projeto realizando na faculdade como uma atividade avaliativa.
+- Projeto realizado na faculdade como uma atividade avaliativa.
 
 
 
